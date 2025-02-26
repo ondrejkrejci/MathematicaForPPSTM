@@ -1,4 +1,9 @@
-# MathematicaForPPSTM
+# Old - all the stuff was moved to:
+
+https://github.com/Probe-Particle/MathematicaForPPSTM 
+
+
+## MathematicaForPPSTM
 _Mathematica notebooks with ideas and formula derivations for PP-STM code_
 
 The most important file is: Chen_Rules_and_aditional_checks.nb which contains derivation of Chen Rules
